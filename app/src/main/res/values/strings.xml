@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">Candy Buzz</string>
+    <string name="back_btn">Back</string>
+    <string name="game_life">Game Life</string>
+    <string name="play_game">Play</string>
+
+
+    <string name="level_label">Level:&#160;</string>
+    <string name="score_label">Score:&#160;</string>
+    <string name="start_game">Start game</string>
+
+    <string name="instructions">Instructions</string>
+
+    <string name="finish_level">You finished level&#160;</string>
+    <string name="level_start">Start level</string>
+
+    <string name="game_instructions">The Goal of the game is Collect as many candy as you can
+        before they escape. At the beginning of the game, you have five lives. After each level,
+        the number of balloons increases as well as the speed they appear. So test your reflexes to see how fast you are :)</string>
+
+    <string name="high_score_label">High score:&#160;</string>
+    <string name="game_over">Game Over !!!</string>
+    <string name="new_high_score_title">Congratulation you got a new high score</string>
+    <string name="new_high_score_message">Your New High Score :&#160;</string>
+
+    <string name="invite_friends">Share</string>
+    <string name="level_number">0</string>
+    <string name="exit">Exit</string>
+    <string name="high_score">0</string>
+    <string name="music">Music</string>
+    <string name="sound">Sound</string>
+    <string name="assertion_message">failed</string>
+</resources>
